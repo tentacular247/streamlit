@@ -1,0 +1,5 @@
+streamlit==1.48.1
+openai==0.28.0
+Pillow
+numpy
+requests
